@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NLog config in multiple environments deployment
+title: Environment specific NLog Config
 ---
 
 Nlog doesn't support multiple environments config files. But we can reconfig it during run time based on the current asp.net core environment setting.
