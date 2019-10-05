@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Data visualizations, Maps, Wikipedia, OpenStreetMap, Open data...  These are some of my passions.
+Coding on Mars
 
 ### Contact me
 
-* ✉ YuriAstrakhan@gmail.com
-* 🐦 [nyuriks](https://twitter.com/nyuriks)
+* 🐦 [nyuriks](https://github.com/zsu)
