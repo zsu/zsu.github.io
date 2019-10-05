@@ -3,7 +3,7 @@ layout: post
 title: Environment Specific NLog Config
 ---
 
-NLog doesn't support multiple environments config files. But we can reconfig it during run time based on the current asp.net core environment setting.
+NLog doesn't support environment specific config files. But we can reconfig it during run time based on the current asp.net core environment setting.
 - Add settings to asp.net core environment specific congig files(appsettings.Production.json):
 ```
  "Logging": {
