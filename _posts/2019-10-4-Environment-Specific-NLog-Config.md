@@ -16,7 +16,7 @@ NLog doesn't support environment specific config files. But we can reconfig it d
   }
 ```
 - Read settings and reconfig in Startup.cs
-```
+```c#
        public void UpdateLogLevel()
         {
             try
