@@ -8,4 +8,4 @@ Coding on Mars
 
 ### Contact me
 
-* 🐦 [nyuriks](https://github.com/zsu)
+* 🐦 [zsu](https://github.com/zsu)
